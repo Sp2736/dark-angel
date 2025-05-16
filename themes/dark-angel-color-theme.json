@@ -1,0 +1,91 @@
+{
+  "$schema": "vscode://schemas/color-theme",
+  "colors": {
+    "activityBar.background": "#1C1E2A",
+    "editor.background": "#0E0F1A",
+    "editor.foreground": "#EAEAEA",
+    "editor.inactiveSelectionBackground": "#2c313a4b",
+    "editor.lineHighlightBackground": "#1E1F2A",
+    "editor.selectionBackground": "#3E4451",
+    "editorCursor.foreground": "#FFCC00",
+    "editorIndentGuide.activeBackground1": "#4B4F5A",
+    "editorIndentGuide.background1": "#2C2F38",
+    "editorLineNumber.foreground": "#4B526D",
+    "sideBar.background": "#12131A",
+    "statusBar.background": "#1A1B26",
+    "tab.activeBackground": "#1E1F2A",
+    "tab.inactiveBackground": "#12131A",
+    "terminal.background": "#0E0F1A",
+    "terminal.foreground": "#C7C7C7",
+    "titleBar.activeBackground": "#1C1E2A",
+    "titleBar.inactiveBackground": "#1C1E2A"
+  },
+  "name": "Dark Angel",
+  "tokenColors": [
+    {
+      "scope": [
+        "comment",
+        "punctuation.definition.comment"
+      ],
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#5C6370"
+      }
+    },
+    {
+      "scope": "keyword",
+      "settings": {
+        "foreground": "#C586C0"
+      }
+    },
+    {
+      "scope": "variable",
+      "settings": {
+        "foreground": "#9CDCFE"
+      }
+    },
+    {
+      "scope": "string",
+      "settings": {
+        "foreground": "#CE9178"
+      }
+    },
+    {
+      "scope": "constant.numeric",
+      "settings": {
+        "foreground": "#B5CEA8"
+      }
+    },
+    {
+      "scope": "entity.name.function",
+      "settings": {
+        "foreground": "#DCDCAA"
+      }
+    },
+    {
+      "scope": "storage.type",
+      "settings": {
+        "foreground": "#569CD6"
+      }
+    },
+    {
+      "scope": "entity.name.type",
+      "settings": {
+        "foreground": "#4EC9B0"
+      }
+    },
+    {
+      "scope": "support.class",
+      "settings": {
+        "foreground": "#4EC9B0"
+      }
+    },
+    {
+      "scope": "invalid",
+      "settings": {
+        "foreground": "#F44747"
+      }
+    }
+  ],
+  "type": "dark"
+}
