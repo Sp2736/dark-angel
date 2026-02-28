@@ -1,0 +1,26 @@
+{
+  "name": "dark-angel-by-sp",
+  "displayName": "Dark Angel Theme by SP",
+  "description": "A dark, aesthetic VSCode theme built for night-owls and passionate coders.",
+  "version": "1.2.2",
+  "publisher": "sp2736",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Angel",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-angel-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icon.png",
+  "license": "MIT",
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/Sp2736/dark-angel"
+}
+}
