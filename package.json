@@ -2,7 +2,7 @@
   "name": "dark-angel-by-sp",
   "displayName": "Dark Angel Theme by SP",
   "description": "A dark, aesthetic VSCode theme built for night-owls and passionate coders.",
-  "version": "1.2.2",
+  "version": "1.4.3",
   "publisher": "sp2736",
   "engines": {
     "vscode": "^1.80.0"
