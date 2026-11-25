@@ -26,3 +26,11 @@ That’s it — you're in the zone.
 ### Made with
 Code, coffee, chaos, and creativity — by **Swayam Patel** 🖤
 ---
+
+---
+
+## 📊 Live Stats
+
+<!--LIVE_STATS_START-->
+<!-- auto-generated — do not edit manually -->
+<!--LIVE_STATS_END-->
